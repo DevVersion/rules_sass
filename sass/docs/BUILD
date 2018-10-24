@@ -10,5 +10,4 @@ skylark_doc(
     ],
     format = "html",
     site_root = "/rules_sass",
-    #strip_prefix = "/",
 )
